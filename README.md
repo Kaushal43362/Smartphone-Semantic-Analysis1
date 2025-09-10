@@ -3,6 +3,7 @@
 A comprehensive sentiment analysis project that analyzes Reddit discussions about various smartphone brands and models to understand public sentiment and value perception.
 
 ![Dashboard](Screenshot%202025-09-10%20223935.png)
+![](Screenshot%2025-09-10%223953.png)
 
 ## Project Overview
 
